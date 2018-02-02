@@ -7,6 +7,8 @@ Somos uma empresa movida por inovação, criatividade e tecnologia na criação 
 ## Proposta
 O seu desafio é codificar [esse layout](https://www.figma.com/file/pArDJGnD4AVjIDv2ovB3xQ/Original.io-frontend-test) em HTML, CSS e Javascript. A ferramenta usada para para criação da interface foi o [Figma](figma.com). Além disso, o desafio também serve pra mostrar um pouquinho da nossa forma de trabalho.
 
+Para começar, você deve forkar esse repositório e fazer dele o seu *origin* para esse projeto. Dessa forma, podemos acompanhar seus commits e avaliar melhor o seu desenvolvimento.
+
 ## Obrigatório
 * HTML, CSS e JS
 * Git
