@@ -24,5 +24,4 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/pArDJGnD4AVj
 
 Entre os critérios que pretendemos avaliar em seu código, é muito importante para nós a sua capacidade de [pensar modularmente](https://webstandardssherpa.com/reviews/think-modularly). Além disso, uma boa organização utilizando o Git e estruturando arquivos e pastas são reflexos da sua eficiência ao trabalhar em equipe, algo **essencial** por aqui.
 
-
-<img src="https://originalmedia.vteximg.com.br/arquivos/rsz_logo-originaltx.png" alt="Original.io" title="Original.io" style="display: block; margin: 20px auto 0;">
+**Original.io**
