@@ -16,10 +16,10 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/pArDJGnD4AVj
 
 ## Bonus points
 * [React](https://reactjs.org/)
-* Fake server 
+* Simulação de API REST, usando código assíncrono (Fake server)
+* Código modular 
 * [BEM (CSS)](http://getbem.com/introduction/)
-* Código modular
-* Simulação de API REST, usando código assíncrono
+
 * Responsividade
 * Boa aplicação de ferramentas, sejam elas transpiladores, pré-processadores, task-runners, bundlers, etc.
 
