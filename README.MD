@@ -31,7 +31,10 @@ Caso seu teste seja para uma vaga de desenvolvedor **Pleno**, os critérios que 
 ## Entregando o teste
 Se não se importar que outros candidatos possam ver seu teste, você pode forkar esse repositório e fazer dele o seu `origin` para esse projeto. Dessa forma, podemos acompanhar seus commits e avaliar melhor o seu desenvolvimento quando fizer o Pull Request com o resultado - que precisa seguir as diretrizes listadas abaixo.
 
-Caso contrário, você pode fazer tudo em algum repositório privado e, na entrega, liberar acesso de leitura para os e-mails _**marcell.cruz@original.io**_ _**zeonardo.lima@original.io**_ _**jesus@original.io**_.
+Caso contrário, você pode fazer tudo em algum repositório privado e, na entrega, liberar acesso de leitura para os e-mails
+ou arquivo **.zip** 
+_**marcell.cruz@original.io**_ _**zeonardo.lima@original.io**_ _**jesus@original.io**_.
+Caso for enviar por e-mail, nos passe o link do seu github.
 
 * Hospede o resultado de seu teste em qualquer serviço à sua escolha (Surge.sh, Heroku, Netlify, etc.) e mantenha-a sempre atualizada
 * Crie uma issue aqui neste repositório, com as seguintes informações:
