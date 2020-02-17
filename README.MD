@@ -10,7 +10,7 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/pArDJGnD4AVj
 **[IMPORTANTE] Leia os [critérios de avaliação](#critérios-de-avaliação) para que a mesma seja feita com base no teste de acordo com seu perfil - Júnior ou Pleno.**
 
 ## Obrigatório
-* HTML, CSS e JS
+* HTML, CSS e JS(Junior e Pleno)
 * Git
 * Fidelização ao layout
 
